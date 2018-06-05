@@ -1,0 +1,92 @@
+archery
+abseiling
+aquatics
+athletics
+badminton
+baseball
+base jumping
+bull fighting
+basketball
+bowling
+billiards
+boxing
+cricket
+camping
+canoeing
+caving
+cheerleading
+cross country running
+chess
+cycling
+dog sledding
+darts
+diving
+equestrian
+fencing
+football
+fishing
+formula1
+golf
+gymnastics
+hand ball
+handball
+high jump
+hiking
+hunting
+ice hockey
+ice skating
+horse racing
+hockey
+judo
+jai alai
+karate
+kayaking
+kabaddi
+knee boarding
+long jump
+land sailing
+motorcycle racing
+mountain biking
+mountaineering
+netball
+paintball
+paragliding
+parachuting
+pentathlon
+racquetball
+river rafting
+rafting
+rock climbing
+roller skating
+rowing
+rugby
+sailing
+scuba diving
+skateboarding
+snow biking
+snow boarding
+soccer
+skydiving
+sky diving
+sumo wrestling
+surfing
+swimming
+snooker
+squash
+swimming
+table tennis
+tennis
+trampolining
+tug of war
+tugofwar
+taekwondo
+triathlon
+volleyball
+weightlifting
+wind surfing
+weight lifting
+wushu
+water skiing
+wrestling
+yachting
+yoga
